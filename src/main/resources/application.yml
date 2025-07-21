@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Practice_Memo_App
+  datasource:
+    url: jdbc:postgresql://localhost:5432/practice_memo_app
+    username: postgres
+    password: password
